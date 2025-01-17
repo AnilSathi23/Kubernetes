@@ -66,4 +66,75 @@ etcd :
 pod: is a team of people responsible to accomplish a task
 The miminal unit of work that Kubernetest is responsbile for unit of work
 
+In Windows it is called as TASK
+
+Container orchestration is the process of automating the management of containerized applications and services. It includes:
+provisioning, deploying, scaling, securing, networking, ensuring availability, and monitoring container lifecycles. 
+
+Container orchestration can be used in any computing environment that supports containers, including:
+- Traditional on-premises servers 
+- Public, private, hybrid, and multicloud computing environments 
+
+Container orchestration tools can help simplify container infrastructure management. They can be used to manage containerized applications throughout the entire software lifecycle, from development and deployment to testing and monitoring. 
+
+Some container orchestration platforms include: 
+
+- Kubernetes: A common container orchestration platform in the cloud-native world 
+- Apache Mesos: A container orchestration platform 
+- Docker-compose: A container orchestration platform 
+- Azure Kubernetes Service (AKS): A container orchestration solution available on Microsoft Azure 
+- Amazon Elastic Container Service (ECS): A Kubernetes-as-a-Service provider 
+- Google Kubernetes Engine (GKE): A Kubernetes-as-a-Service provider 
+- RedHat OpenShift Container Platform: A Kubernetes-as-a-Service provider
+
+Kubernetes is a greek word is captain of the ship.
+
+K8S is K(ubernete)s
+
+HELM Chart which is the package manager to manage applications.
+
+Defacto standard after docker is containerD
+
+2 method of deploying objects
+
+- imperative (give an instruction to get a job done)
+- declarative (definining the requirements )
+
+
+ARGO CD (https://argo-cd.readthedocs.io/en/stable/) like Jenkins works with K8S
+
+Github Link
+![alt text](image.png)
+
+**Windows Sub System for Linux**
+You can run windows as well as ubuntu terminal
+
+https://docs.google.com/document/d/1ikdoPeElFCGsAmNH2hIZ9iSTQKczxODruiddqzY8Thk/edit?tab=t.0#heading=h.jf5hkrvzh0jg
+
+https://docs.google.com/document/d/1tRae7JQ1HJ_uo3WqleZmfYgdn-N9bDXIcH00xshxzkY/edit?tab=t.0#heading=h.cplz6gsv01tr
+
+https://docs.google.com/document/d/1mmmNOQwWBP0_QMHvDR4vmZt8Nl80hP-vtvjNajGPLKY/edit?tab=t.0#heading=h.kjndtfqvjipi
+
+https://docs.google.com/document/d/1UY6rwiUdfEHGIBJoEZAxAaqO1ghUw3XUuedqPZXAlIc/edit?tab=t.0
+
+https://github.com/devopscert202/k8sforbeginners.git
+
+https://docs.google.com/document/d/1KkkFxEs2RuNo35mNZ0L7c4CDJbye7zzLvmjFH756GX0/edit?tab=t.0
+
+https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+
+https://jsonformatter.org/yaml-validator
+
+
+
+
+
+
+
+
+
+
+
+
+
 
