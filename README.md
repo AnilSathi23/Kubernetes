@@ -126,6 +126,11 @@ https://training.linuxfoundation.org/certification/certified-kubernetes-administ
 https://jsonformatter.org/yaml-validator
 
 
+https://github.com/devopscert202/k8sforbeginners.git
+
+CIS(Center for internet Security) Container OS Hardening Techniques and baselining
+
+
 
 
 
