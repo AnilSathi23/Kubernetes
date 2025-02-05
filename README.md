@@ -128,6 +128,8 @@ https://jsonformatter.org/yaml-validator
 
 https://github.com/devopscert202/k8sforbeginners.git
 
+https://github.com/devopscert202/k8sforbeginners/blob/98d2181070fd0c36b037ba90836a009889c08ec4/k8s/docs/networking/networking-basics.md
+
 CIS(Center for internet Security) Container OS Hardening Techniques and baselining
 
 
