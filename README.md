@@ -132,16 +132,8 @@ https://github.com/devopscert202/k8sforbeginners/blob/98d2181070fd0c36b037ba9083
 
 CIS(Center for internet Security) Container OS Hardening Techniques and baselining
 
+https://docs.google.com/spreadsheets/d/1RPpyDOLFmcgxMCpABDzrsBYWpPYCIBuvAoUQLwOGoQw/edit?gid=907731238#gid=907731238
 
-
-
-
-
-
-
-
-
-
-
-
+aws eks update-kubeconfig  --region us-east-1 --name eksdemo
+In AWS master node is not managed by us
 
